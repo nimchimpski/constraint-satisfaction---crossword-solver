@@ -1,0 +1,11 @@
+
+
+overlaps takes tuple
+overlaps returns tuple
+
+self.domains = dict.
+neighbors(x) = set
+assignment = dict
+
+Dequeue?
+-from collections impor dequeue-
